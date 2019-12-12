@@ -1,1 +1,1 @@
-# panel-download
+# cgs-download
